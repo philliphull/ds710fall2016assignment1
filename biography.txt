@@ -1,8 +1,18 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name? Phil Hull
+1. What is your name?
+Phil Hull
 2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I currently work with large amounts of data in my position as an Associate Registrar at UW Madison. As such I am the data custodian for student academic data and have spent much of the last
+ten years as the default "data guy". I am involved in several high level initiatives on campus related to data science such as learning analytics and data governance. I see many possibilities for improving the way we use institutional data
+to improve services to faculty, staff, and the student community. 
+3.  Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+Courses: SQL, PLSQL, SQR, PeopleTools, PeopleCode, Integration Broker, BI Publisher, Javascript, HTML. I manage a unit that maintains and supports the PeopleSoft student information system for UW Madison (specifically the student records
+related portions). We also manage an operational data store for student data which feeds student data to other campus software installations. 
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+There was some required statistics for my undergrad degree in Economics. An introductory stats class and then one focused on regression called Quantitative Methods for Management & Econ. I also took the Foundation of Data Science course this
+past summer, which provided a sort of refresher in stats.
 5.  Do you have other experience with R or Python?
+I used R in DS 710, but have never used Python.
 6.  What do you hope to learn in this class?
+I would like to be proficient in Python (at least at a beginner's level), expand my understanding of R and continue to learn stats as used in data science.
 7.  Is there anything else you would like to share with us?
